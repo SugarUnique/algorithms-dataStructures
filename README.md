@@ -1,2 +1,2 @@
-# algroithms-dataStructures
-Algroithms and Data Structures for Golang
+# algorithms-dataStructures
+Algorithms and Data Structures for Golang

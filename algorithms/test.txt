@@ -1,1 +1,3 @@
 This is a testing file.
+
+Fine£¬Today is good day.
